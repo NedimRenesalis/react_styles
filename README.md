@@ -1,2 +1,2 @@
-# react-styles
+Styling in React made easy.
  
